@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: #000000;
+}
+
+img {
+    display: block;
+    width: 200px;
+    margin: 100px auto 100px auto;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+button {
+
+    color: #000000;
+    font-size: 20px;
+    font-style: italic;
+
+}
+
+.btn-cardapio {
+    display: block;
+    width: 250px;
+    height: 60px;
+    margin: 20px auto 20px auto;
+    background-color: #D69123;
+    border: none;
+    border-radius: 15px;
+}
+
+.btn-wpp {
+    display: block;
+    width: 250px;
+    height: 60px;
+    margin: 20px auto 20px auto;
+    border: none;
+    border-radius: 15px;
+    background-color: #56F672;
+}
+
+.btn-wpp:hover {
+    background-color: #40b956;
+    cursor: pointer;
+}
+
+.btn-cardapio:hover {
+    background-color: #976a22;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}
