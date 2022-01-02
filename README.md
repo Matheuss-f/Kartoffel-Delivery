@@ -1,6 +1,6 @@
 # Kartoffel-Delivery
 
-<img src="./assets/interface.logo.jfif/" alt="Kartoffel-interface">
+<img src="./assets/interface.2.jfif" alt="Kartoffel-interface">
 
 <h2> Sobre o Projeto:</h2>
 <br>
